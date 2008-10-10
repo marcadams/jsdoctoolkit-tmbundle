@@ -1,0 +1,3 @@
+# JsDoc Toolkit TextMate Bundle
+
+This bundle includes snippets and commands to assist the coder in the usage of [JsDoc Toolkit](http://jsdoctoolkit.org/) documentation system por JavaScript.
